@@ -1,0 +1,9 @@
+.box{
+    background-color: pink;
+    width: 700px;
+    height: 300px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+    border: 1px solid;
+}
